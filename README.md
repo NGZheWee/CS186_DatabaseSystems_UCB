@@ -19,4 +19,6 @@ This repository contains coursework from **CS186: Introduction to Database Syste
 - **Projects**: All projects are located under the `Projects/` directory, each containing relevant code and documentation for database design, query execution, and system performance optimization.
 
 
-Explore the coursework to see how database systems are designed and implemented, focusing on SQL, indexing, and transaction management.
+## Academic Integrity Note
+
+This repository contains my own coursework submissions and related learning artifacts, shared for portfolio review only; do not copy or submit this material for active or future coursework, and follow your institution's academic integrity policies.
